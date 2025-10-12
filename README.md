@@ -1,3 +1,4 @@
 Hi, I'm Kayed,
 
-I hope you find something here that interests you
+This is my GitHub where I keep my current projects.
+I hope you find something that interests you.

@@ -15,5 +15,6 @@ Hi, I'm Kayed
 </picture>
 This is my GitHub where I keep my current projects. 
 <br>
-I hope you find something that interests you !
+I hope you find something that interests you!
+<br>
 

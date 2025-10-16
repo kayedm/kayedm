@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayedm&layout=compact" />
 Hi, I'm Kayed 
 ---
 This is my GitHub where I keep my current projects. 
